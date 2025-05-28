@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Resonator</string>
+    <string name="serverip">http://192.168.0.2:8080/upload</string>
 </resources>
